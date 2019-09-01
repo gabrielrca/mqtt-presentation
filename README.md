@@ -17,8 +17,6 @@ Porta TCP:1883 aberta no seu firewall
 
 Comandos
 
-sudo apt-get update
-
-sudo apt-get install mosquitto
-
-sudo apt-get install mosquitto-clients
+>sudo apt-get update
+>sudo apt-get install mosquitto
+>sudo apt-get install mosquitto-clients
